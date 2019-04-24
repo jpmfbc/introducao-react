@@ -1,5 +1,5 @@
 {
-  "series":[
+  "series": [
     {
       "id": 1,
       "name": "How I met your mother",
@@ -12,7 +12,7 @@
       "name": "Friends",
       "status": "watching",
       "genre": "Comédia",
-      "current":{
+      "current": {
         "episode": "01",
         "season": "09"
       },
@@ -31,9 +31,32 @@
       "status": "toWatch",
       "genre": "Drama",
       "comments": "Galera fala bem"
+    },
+    {
+      "name": "teste2",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "teste2",
+      "id": 6
+    },
+    {
+      "name": "game of thrones",
+      "status": "watching",
+      "genre": "Ação",
+      "comments": "muito boa!",
+      "id": 7
+    },
+    {
+      "name": "GodLess",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "velho oeste muito bom",
+      "id": 8
     }
   ],
-  "genres":[
-    "Comédia", "Drama", "Ação"
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
   ]
 }
