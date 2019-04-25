@@ -9,13 +9,9 @@
     },
     {
       "id": 2,
-      "name": "Friends",
-      "status": "watching",
+      "name": "Friends ",
+      "status": "watched",
       "genre": "Comédia",
-      "current": {
-        "episode": "01",
-        "season": "09"
-      },
       "comments": "Bom para descontrair"
     },
     {
@@ -33,25 +29,11 @@
       "comments": "Galera fala bem"
     },
     {
-      "name": "teste2",
+      "name": "dark",
       "status": "watched",
-      "genre": "Comédia",
-      "comments": "teste2",
-      "id": 6
-    },
-    {
-      "name": "game of thrones",
-      "status": "watching",
-      "genre": "Ação",
-      "comments": "muito boa!",
-      "id": 7
-    },
-    {
-      "name": "GodLess",
-      "status": "watched",
-      "genre": "Ação",
-      "comments": "velho oeste muito bom",
-      "id": 8
+      "genre": "Drama",
+      "comments": "muito boa, vários personagens interessantes ",
+      "id": 9
     }
   ],
   "genres": [
